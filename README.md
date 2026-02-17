@@ -25,8 +25,8 @@ A Python tool to extract precise latitude and longitude coordinates from Google 
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/coordinate-extractor.git
-cd coordinate-extractor
+git clone https://github.com/yourusername/gmaps-coordinate-extractor.git
+cd gmaps-coordinate-extractor
 
 # Install dependencies
 pip install -r requirements.txt
