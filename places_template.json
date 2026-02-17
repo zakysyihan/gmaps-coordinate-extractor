@@ -1,0 +1,20 @@
+{
+    "place_001": {
+        "key": "place_001",
+        "name": "Example Place Name",
+        "gmaps": "https://maps.app.goo.gl/...",
+        "latlong": {
+            "lat": "-7.962624",
+            "long": "112.6268928"
+        }
+    },
+    "place_002": {
+        "key": "place_002",
+        "name": "Another Example Location",
+        "gmaps": "https://goo.gl/maps/...",
+        "latlong": {
+            "lat": "-7.962624",
+            "long": "112.6268928"
+        }
+    }
+}
